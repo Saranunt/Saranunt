@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Park Saranunt</h1>
 <h3 align="center">Computer Engineering Student @KMUTT. I am aspiring in Artificial Intelligence, Computer Graphics, and Cinematic Engineering.</h3>
 
-- 🌱 I’m currently learning **AI/ML, 3D Engine, and a bit of Computer Graphic.**
+- 🌱 I’m currently learning **AI/ML, Data Analytic, 3D Engine, and a bit of Computer Graphic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
